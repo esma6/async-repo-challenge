@@ -79,3 +79,5 @@ class UserRepository:
             await self.session.delete(user)
 
         return True
+    
+    #ofahmet repositoryimi sal
