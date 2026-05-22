@@ -80,4 +80,4 @@ class UserRepository:
 
         return True
     
-    #ofahmet repositoryimi sal
+    #ofahmet repositoryimi sal 
